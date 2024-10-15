@@ -1,6 +1,7 @@
 # Assignment
 
-It includes 2 tasks that have been completed.
+It includes 2 tasks that have been completed. 
+This file contains the prerequisites and the 'TaskOverviewDoc' contains the Task Overview details and description about the development and implementation.
 
 ## Prerequisites
 1. Download the files through Github. Ensure you download the CSV files as well.
